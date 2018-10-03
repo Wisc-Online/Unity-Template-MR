@@ -1,4 +1,4 @@
-# Unity-Template
+# Unity-Template-MR
 A template Unity repo to get started with a Unity project for Mixed Reality.  Fork this repository to get started quickly and easily.
 
 # Use
